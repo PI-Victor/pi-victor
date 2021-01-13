@@ -1,10 +1,8 @@
 I've worked [here and there](https://stackoverflow.com/story/pi-victor).
 
-I try to write things i've solved so i don't forget about them on the [blog](https://victor.cloudflavor.io).
+Sometimes [i write about software dev and ops](https://victor.cloudflavor.io).
 
-
-Most of the projects are WIP because i have a lot of ideas and not that much time, but
-here are the ones i'd like to get done one day:
+Most of my projects are unfinished, nevertheless, here are the ones that matter:
  
 - [Kalimera](https://github.com/cloudflavor/kalimera) - Standalone web UI for aws s3 compatible storage services.
 
