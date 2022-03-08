@@ -1,8 +1,1 @@
-I've worked [here and there](https://stackoverflow.com/story/pi-victor).
-
-Sometimes [i write about software dev and ops](https://victor.cloudflavor.io).
-
-I am the docs release lead for Kubernetes v1.22, for any issues related to the docs release, 
-please ping me on [k8s slack](kubernetes.slack.com) @pi-victor.
-
-p.s.: I soft block people that follow me on github. This is not instagram and i'm not a Kardashian.
+For Ukraine crisis support, you can donate to the Swiss Red Cross [here](https://www.redcross.ch/en/ukraine-crisis-support-emergency-aid).
