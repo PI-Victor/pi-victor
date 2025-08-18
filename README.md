@@ -1,4 +1,4 @@
 [Will WAF for food!](https://cloudflavor.io/services).  
-I founded [Cloudflavor](https://cloudflavor.io).  
-Currently working on [Nubium Cloud](https://nubium.cloud) - Beta coming Q1 2026  
+Currently working on [Nubium Cloud](https://nubium.cloud) - Beta coming Q1 2026 &  
+[Skycrane](https://skycrane.io) Config and Infra as Code  
 All code can be found [@cloudflavor](https://github.com/cloudflavor).
