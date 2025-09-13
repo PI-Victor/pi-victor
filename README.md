@@ -1,4 +1,4 @@
- ### **Enterprise Cloud Infrastructure**
+ ### **Cloud Infrastructure for SMEs & Startups**
   - **[Cloudflare Platform](https://cloudflavor.io/products/cloudflare)** - Workers, WAF, DNS, CDN, DDoS protection
   - **[Kubernetes Consulting](https://cloudflavor.io/products/kubernetes)** - EKS, GKE, AKS deployment & management
   - **[DevSecOps Platform](https://cloudflavor.io/products/devsecops)** - Security automation & compliance
