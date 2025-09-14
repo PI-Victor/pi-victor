@@ -13,9 +13,9 @@
   - **[Cloudflare WAF & Security](https://cloudflavor.io/services#cloudflare)** - API protection, bot management, DDoS
   - **[Platform Engineering](https://cloudflavor.io/services#crossplane)** - Continuous infrastructure support
 
-  ### **Coming Soon** 🎯
+  ### **Coming Soon** 
   - **[Nubium Cloud](https://nubium.cloud)** - Beta Q1 2026
   - **[Skycrane](https://skycrane.io)** - Config and Infra as Code
 
   ---
-  📍 Swiss-based • Cost effective & SMEs friendly • [View all services →](https://cloudflavor.io/services)
+  Swiss-based • Cost effective & SMEs friendly • [View all services →](https://cloudflavor.io/services)
